@@ -1,0 +1,6 @@
+{
+	"disableAutoUpdate": false,
+	"author": "NMods",
+    "description": "filter lfg to remove all spam and advertisements",
+	"servers": ["https://raw.githubusercontent.com/nmods/REPONAME/master/"]
+}

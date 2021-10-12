@@ -1,0 +1,9 @@
+{
+	"files": {
+		"index.js": "184afbecc0fd607a389939c16903a78e9fdbcd6f2dd5d6dfac3c619ad117ce41",
+		"module.json": "a6475f73f234032daf97d15491612c404311c1afd813ee215a0a2598c3d235e8"
+	},
+	"defs": {
+		"S_SHOW_PARTY_MATCH_INFO": 2
+	}
+}
